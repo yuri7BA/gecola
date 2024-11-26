@@ -1,0 +1,37 @@
+[SERVIDOR] Nome do servidor SQL Server pre-configurado no modulo 'main':
+ruindows11
+
+
+[DATABASE] Nome do banco de dados SQL Server pre-configurado no modulo 'main':
+gecola
+
+
+[LOGIN-ADMINISTRADOR] Nome de login/usuario dos administradores pre-cadastrados
+[admin e admin3 estao ativos, admin2 esta inativo]:
+admin
+admin2
+admin3
+
+
+[LOGIN-GERENTE] Nome de login/usuario dos gerentes pre-cadastrados
+[gerente esta ativo, gerente2 esta inativo]:
+gerente
+gerente2
+
+
+[LOGIN-FUNCIONARIO] Nome de login/usuario dos funcionarios pre-cadastrados
+[funcionario esta ativo, funcionario2 esta inativo]:
+funcionario
+funcionario2
+
+
+[LOGIN-*] Mesma senha pre-configurada para todos os
+administradores, gerentes e funcionarios pre-cadastrados:
+abacateiro
+
+
+[CLIENTE] CPF/Nomes de clientes pre-cadastrados
+[Moquidesia e Pilotsvania estao ativas, Helmer esta inativo]:
+10101010101/MOQUIDESIA
+20202020202/HELMER
+70707070707PILOTSVANIA
